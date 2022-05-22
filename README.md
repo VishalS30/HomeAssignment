@@ -3,6 +3,7 @@
 - Please provide a short summary detailing anything you think is relevant, for example:
   - Installation steps
   - How to run your code / tests
+  Steps to Run
  1. Add Feeds folder in C:\Temp
 2. Open Project and restore packages.
 3. Build the solution.
@@ -15,13 +16,13 @@
   - Where to find your code
 
  https://github.com/VishalS30/HomeAssignment/tree/master
-  - Was it your first time writing a unit test, using a particular framework, etc?
+  - Was it your first time writing a unit test, using a particular framework, etc?   
    No , I have the experience to write unit test case
-  - What would you have done differently if you had had more time
+  - What would you have done differently if you had had more time.   
    If i had more time i will complete all the test case. Add logging etc.
   - Etc.
 
-Steps to Run
+
 
 
 
