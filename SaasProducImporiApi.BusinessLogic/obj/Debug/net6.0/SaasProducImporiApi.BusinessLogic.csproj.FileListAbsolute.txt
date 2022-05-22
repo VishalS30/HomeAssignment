@@ -1,0 +1,15 @@
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\bin\Debug\net6.0\SaasProducImporiApi.BusinessLogic.deps.json
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\bin\Debug\net6.0\SaasProducImporiApi.BusinessLogic.dll
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\bin\Debug\net6.0\SaasProducImporiApi.BusinessLogic.pdb
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\bin\Debug\net6.0\SaasProductImportApi.Common.dll
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\bin\Debug\net6.0\SaasProductImportApi.Common.pdb
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.csproj.AssemblyReference.cache
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.AssemblyInfoInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.AssemblyInfo.cs
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.csproj.CopyComplete
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.dll
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\refint\SaasProducImporiApi.BusinessLogic.dll
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\SaasProducImporiApi.BusinessLogic.pdb
+D:\MicroS\SaasProductImportApi\SaasProducImporiApi.BusinessLogic\obj\Debug\net6.0\ref\SaasProducImporiApi.BusinessLogic.dll

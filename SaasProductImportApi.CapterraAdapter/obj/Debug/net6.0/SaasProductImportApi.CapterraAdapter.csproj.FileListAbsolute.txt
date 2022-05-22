@@ -1,0 +1,17 @@
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.csproj.AssemblyReference.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.AssemblyInfoInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.AssemblyInfo.cs
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.csproj.CoreCompileInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\bin\Debug\net6.0\SaasProductImportApi.CapterraAdapter.deps.json
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\bin\Debug\net6.0\SaasProductImportApi.CapterraAdapter.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\bin\Debug\net6.0\SaasProductImportApi.CapterraAdapter.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\bin\Debug\net6.0\SaasProducImporiApi.BusinessLogic.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\bin\Debug\net6.0\SaasProductImportApi.Common.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\bin\Debug\net6.0\SaasProducImporiApi.BusinessLogic.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\bin\Debug\net6.0\SaasProductImportApi.Common.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.csproj.CopyComplete
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\refint\SaasProductImportApi.CapterraAdapter.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\SaasProductImportApi.CapterraAdapter.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.CapterraAdapter\obj\Debug\net6.0\ref\SaasProductImportApi.CapterraAdapter.dll

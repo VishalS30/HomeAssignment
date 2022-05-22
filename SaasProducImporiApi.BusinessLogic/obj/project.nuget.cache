@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9V40M8xND3hTZvfU0U1TUjCX4lgycObNPNW/vA+5gM5Cw3xYBSen9jRgnBB4tCIb/UpiKMtfOIfyPPdMreZrw==",
+  "success": true,
+  "projectFilePath": "D:\\MicroS\\SaasProductImportApi\\SaasProducImporiApi.BusinessLogic\\SaasProducImporiApi.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

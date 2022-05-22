@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<OutputType>Exe</OutputType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Autofac" Version="6.3.0" />
+		<PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SaasProducImporiApi.BusinessLogic\SaasProducImporiApi.BusinessLogic.csproj" />
+		<ProjectReference Include="..\SaasProductImportApi.CapterraAdapter\SaasProductImportApi.CapterraAdapter.csproj" />
+		<ProjectReference Include="..\SaasProductImportApi.SoftwareAdviceAdapter\SaasProductImportApi.SoftwareAdviceAdapter.csproj" />
+	</ItemGroup>
+
+</Project>

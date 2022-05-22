@@ -1,0 +1,17 @@
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.csproj.AssemblyReference.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.AssemblyInfoInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.AssemblyInfo.cs
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.csproj.CoreCompileInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\bin\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.deps.json
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\bin\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\bin\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\bin\Debug\net6.0\SaasProducImporiApi.BusinessLogic.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\bin\Debug\net6.0\SaasProductImportApi.Common.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\bin\Debug\net6.0\SaasProducImporiApi.BusinessLogic.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\bin\Debug\net6.0\SaasProductImportApi.Common.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.csproj.CopyComplete
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\refint\SaasProductImportApi.SoftwareAdviceAdapter.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\SaasProductImportApi.SoftwareAdviceAdapter.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.SoftwareAdviceAdapter\obj\Debug\net6.0\ref\SaasProductImportApi.SoftwareAdviceAdapter.dll

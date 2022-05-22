@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1hIVi52ncXKJb3HvSiJEY55+TWc9JZovtzDmCeBb0roeDTKCb0+pW/dsK+74tZzAAlF9nLo4VvCszlG9gxuXA==",
+  "success": true,
+  "projectFilePath": "D:\\MicroS\\SaasProductImportApi\\SaasProductImportApi.SoftwareAdviceAdapter\\SaasProductImportApi.SoftwareAdviceAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\visha\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\visha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

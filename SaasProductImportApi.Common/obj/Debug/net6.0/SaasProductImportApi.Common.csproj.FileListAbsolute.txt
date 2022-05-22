@@ -1,0 +1,12 @@
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\bin\Debug\net6.0\SaasProductImportApi.Common.deps.json
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\bin\Debug\net6.0\SaasProductImportApi.Common.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\bin\Debug\net6.0\SaasProductImportApi.Common.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\SaasProductImportApi.Common.csproj.AssemblyReference.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\SaasProductImportApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\SaasProductImportApi.Common.AssemblyInfoInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\SaasProductImportApi.Common.AssemblyInfo.cs
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\SaasProductImportApi.Common.csproj.CoreCompileInputs.cache
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\SaasProductImportApi.Common.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\refint\SaasProductImportApi.Common.dll
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\SaasProductImportApi.Common.pdb
+D:\MicroS\SaasProductImportApi\SaasProductImportApi.Common\obj\Debug\net6.0\ref\SaasProductImportApi.Common.dll

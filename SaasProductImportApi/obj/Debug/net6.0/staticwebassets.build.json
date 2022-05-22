@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FjKBItgWXAZ22yFzSATSSu04rI/WedR1lRR8ml6xTEY=",
+  "Source": "SaasProductImportApi",
+  "BasePath": "_content/SaasProductImportApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
